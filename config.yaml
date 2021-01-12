@@ -1,0 +1,5 @@
+production:
+  dbHost: localhost:3306
+  dbName: ctaglearn
+  dbUser: root
+  dbPass: root
