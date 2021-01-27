@@ -1,4 +1,4 @@
-# LikeAPIServer v2
+# gin-server
 ## Setup
 
 dependents & docker 
